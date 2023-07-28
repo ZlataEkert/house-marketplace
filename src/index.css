@@ -53,7 +53,7 @@ button {
 
 .textarea {
   padding: 1rem 1.5rem;
-  height: 230px;
+  height: 300px;
   border-radius: 1rem;
 }
 
@@ -562,7 +562,7 @@ button {
 }
 @media (min-width: 1024px) {
   .leafletContainer {
-    height: 350px;
+    height: 400px;
   }
 }
 
