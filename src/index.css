@@ -562,7 +562,7 @@ button {
 }
 @media (min-width: 1024px) {
   .leafletContainer {
-    height: 400px;
+    height: 350px;
   }
 }
 
