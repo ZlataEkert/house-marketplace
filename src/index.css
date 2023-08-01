@@ -76,7 +76,7 @@ button {
   cursor: pointer;
   position: absolute;
   top: -3%;
-  right: -2%;
+  right: 2rem
 }
 
 .editIcon {
